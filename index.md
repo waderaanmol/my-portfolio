@@ -14,4 +14,12 @@ Alongside this, the course introduced to me programming languages like Python, R
 
 #### Python For Everybody Certification
 
-Next, aiming to expand my introductory knowledge in Python, i successfully completed the Python for Everybody Specialisation[https://www.coursera.org/account/accomplishments/specialization/certificate/XVM4EQ7FXYV7] from University of Michigan on the platform Coursera. It introduced fundamental programming concepts including data structures, networked application program interfaces, and databases, using the Python programming language. 
+Next, aiming to expand my introductory knowledge in Python, i successfully completed the Python for Everybody Specialisation [https://www.coursera.org/account/accomplishments/specialization/certificate/XVM4EQ7FXYV7] from University of Michigan on the platform Coursera. It introduced fundamental programming concepts including data structures, networked application program interfaces, and databases, using the Python programming language.
+
+#### Data Analyst
+
+Worked as a data analyst intern at Leverage Edu that guides students in higher education and career development. Managed data research and collection for multiple projects. Supervised interns, assisted the project manager and trained the team on using advance Excel function to increase efficiency on a course finder project.
+
+#### Data Analytics for Business Decision Making | Durham College
+
+
