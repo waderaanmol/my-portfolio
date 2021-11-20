@@ -7,7 +7,7 @@ Currently pursuing a post graduate certification in Data Analytics at Durham Col
 
 ---
 
-#### Bachelors of Science in Statistics Honours
+#### Bachelors of Science in Statistics Honours | University of Delhi
 
 Began developing the foundation for the field of data science where i learned the concepts such as propbability and probability distributions, regression, descriptive and inferntial statistics and linear models. 
 Alongside this, the course introduced to me programming languages like Python, R, SPSS and C++. 
@@ -16,11 +16,16 @@ Alongside this, the course introduced to me programming languages like Python, R
 
 Next, aiming to expand my introductory knowledge in Python, i successfully completed the [Python for Everybody Specialisation https://www.coursera.org/account/accomplishments/specialization/certificate/XVM4EQ7FXYV7] from University of Michigan on the platform Coursera. It introduced fundamental programming concepts including data structures, networked application program interfaces, and databases, using the Python programming language.
 
-#### Data Analyst
+#### Data Analyst | Leverage Edu
 
 Worked as a data analyst intern at Leverage Edu that guides students in higher education and career development. Managed data research and collection for multiple projects. Supervised interns, assisted the project manager and trained the team on using advance Excel function to increase efficiency on a course finder project.
 
 #### Data Analytics for Business Decision Making | Durham College
+
+Currently enrolled in the post graduate certificate program where i'm being prepared to begin my career in the field of Business Analytics and Data science. The course is blend of hands-on practical skills for data collection, analysis and manipulation using big data and business intelligence tools and softwares like Python, R, SQL, NoSQL, Tableau and PowerBi as well as project management, stakeholder management and presenting analyses and findings to management and key business stakeholders.
+
+#### Artificial Intelligence Analysis, Design and Implementation | Durham College
+
 
 
 
