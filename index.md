@@ -26,7 +26,7 @@ Currently enrolled in the post graduate certificate program where i'm being prep
 
 #### Artificial Intelligence Analysis, Design and Implementation | Durham College
 
-As someone who desires to enter the world of data science, the next ideal step was was to enroll myself in the Artifical Intelligence program at DC before entering the industry. In the big world of data science, while I'm still trying to figure out which specific role i would like to pursue, I hope this course will give me the answer I'm looking for. 
+As someone who desires to enter the world of data science, the next ideal step was was to enroll myself in the Artifical Intelligence program at DC before entering the industry. In the big world of data science, while I'm still trying to figure out which specific role i would like to pursue, I hope this course will give me the answer I'm looking for.
 
 
 
