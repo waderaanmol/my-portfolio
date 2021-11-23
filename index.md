@@ -14,7 +14,7 @@ Alongside this, the course introduced to me programming languages like Python, R
 
 #### Python For Everybody Certification
 
-Next, aiming to expand my introductory knowledge in Python, i successfully completed the [Python for Everybody Specialisation](https://www.coursera.org/account/accomplishments/specialization/certificate/XVM4EQ7FXYV7) from University of Michigan on the platform Coursera. It introduced fundamental programming concepts including data structures, networked application program interfaces, and databases, using the Python programming language.
+Next, aiming to expand my introductory knowledge in Python, I successfully completed the [Python for Everybody Specialisation](https://www.coursera.org/account/accomplishments/specialization/certificate/XVM4EQ7FXYV7) from University of Michigan on the platform Coursera. It introduced fundamental programming concepts including data structures, networked application program interfaces, and databases, using the Python programming language.
 
 #### Data Analyst | Leverage Edu
 
@@ -22,11 +22,11 @@ Worked as a data analyst intern at Leverage Edu that guides students in higher e
 
 #### Data Analytics for Business Decision Making | Durham College
 
-Currently enrolled in the post graduate certificate program where i'm being prepared to begin my career in the field of Business Analytics and Data science. The course is blend of hands-on practical skills for data collection, analysis and manipulation using big data and business intelligence tools and softwares like Python, R, SQL, NoSQL, Tableau and PowerBi as well as project management, stakeholder management and presenting analyses and findings to management and key business stakeholders.
+Currently enrolled in the post graduate certificate program where i'm being prepared to begin my career in the field of Business Analytics and Data science. The course is blend of hands-on practical skills for data collection, analysis and manipulation using big data and business intelligence tools and softwares like Python, R, SQL, NoSQL, Tableau and PowerBi as well as project management, stakeholder management and presenting analysis and findings to management and key business stakeholders.
 
 #### Artificial Intelligence Analysis, Design and Implementation | Durham College
 
-
+As someone who desires to enter the world of data science, the next ideal step was was to enroll myself in the Artifical Intelligence program at DC before entering the industry. In the big world of data science, while I'm still trying to figure out which specific role i would like to pursue, I hope this course will give me the answer I'm looking for. 
 
 
 
