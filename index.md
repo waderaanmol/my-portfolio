@@ -14,7 +14,7 @@ Alongside this, the course introduced to me programming languages like Python, R
 
 #### Python For Everybody Certification
 
-Next, aiming to expand my introductory knowledge in Python, i successfully completed the [Python for Everybody Specialisation https://www.coursera.org/account/accomplishments/specialization/certificate/XVM4EQ7FXYV7] from University of Michigan on the platform Coursera. It introduced fundamental programming concepts including data structures, networked application program interfaces, and databases, using the Python programming language.
+Next, aiming to expand my introductory knowledge in Python, i successfully completed the [Python for Everybody Specialisation](https://www.coursera.org/account/accomplishments/specialization/certificate/XVM4EQ7FXYV7) from University of Michigan on the platform Coursera. It introduced fundamental programming concepts including data structures, networked application program interfaces, and databases, using the Python programming language.
 
 #### Data Analyst | Leverage Edu
 
